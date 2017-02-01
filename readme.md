@@ -8,7 +8,7 @@ but this could also be useful to write them to a single file.
 
 ## Installation
 
-Upload the Minify folder to your libraries folder. This is built using CI2 packages and you must be using CI2.
+Upload the Minify folder to your libraries folder. This is built using CI3 packages and you must be using CI3.
 
 ## Usage
 
