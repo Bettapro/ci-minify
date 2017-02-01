@@ -43,7 +43,7 @@ class Minify extends CI_Driver_Library {
 	 *
 	 * @var array
 	 */
-	public $valid_drivers = array('minify_css', 'minify_js');
+	public $valid_drivers = array('css', 'js');
 
 	// ------------------------------------------------------------------------
 
